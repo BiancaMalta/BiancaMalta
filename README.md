@@ -11,17 +11,15 @@
 
 
 - 🔭 I’m a beginner with a lot of grit to learn 
-- 🌱 I’m learning about Machine Learning and Data Science
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about `[]` 
-- 😄 Pronouns: 
-- ⚡ Fun fact: I have
+- 🌱 I’m studying python and linux
+- :dollar: I'm looking for my first job 
+- :heart: My days are resume in coding and taking care of my mother
+- :goat: Fun fact: my nickname is little goat
 
 
 
 
 ![BiancaMalta's github stats](https://github-readme-stats.vercel.app/api?username=BiancaMalta&show_icons=true&theme=radical)
 
-[![GitHub Followers](https://img.shields.io/github/followers/BiancaMalta?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/BiancaMalta)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://https://www.linkedin.com/in/bianca-malta-7a5043100/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/bianca-malta-7a5043100/)
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/atlam_)
