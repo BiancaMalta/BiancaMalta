@@ -7,7 +7,7 @@
   </p>
 </h1>
 
-<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/783ff285743343.5d84ba592b6f6.gif" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" width="290" height="470" />
+<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/5c9b4899127739.5eeba3fbd03e0.gif" alt="All rights reserved to Aliz Rátkai (https://www.behance.net/alizratkai)" width="290" height="470" />
 
 
 - 🔭 I’m a beginner with a lot of grit to learn 
@@ -21,5 +21,8 @@
 
 ![BiancaMalta's github stats](https://github-readme-stats.vercel.app/api?username=BiancaMalta&show_icons=true&theme=radical)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/bianca-malta-7a5043100/)
-[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/atlam_)
+<a href="https://www.linkedin.com/in/bianca-malta-7a5043100/" target="_blank">
+                        <img src="https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white" alt="Linkedin icon" />
+<a href="https://twitter.com/atlam_" target="_blank">
+                        <img src="https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white" alt="Twitter icon" />
+ 
