@@ -17,7 +17,7 @@
 - 🔭 I’m a beginner with a lot of grit to learn 
 - 🌱 I’m studying python and linux
 - :dollar: I'm looking for my first job 
-- :heart: My days are resume in coding and taking care of my mother
+- :heart: My days are resume in coding and taking care of my mom
 - :goat: Fun fact: my nickname is little goat (the animal haha I'm not talking about the acronym)
 
 
