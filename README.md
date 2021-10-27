@@ -8,7 +8,11 @@
 </h1>
 
 <img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/5c9b4899127739.5eeba3fbd03e0.gif" alt="All rights reserved to Aliz Rátkai (https://www.behance.net/alizratkai)" width="290" height="470" />
-
+<p> <img src="https://komarev.com/ghpvc/?username=BiancaMalta" alt="BiancaMalta" /> 
+<table align="right">
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="readme_es.md">Español</a></td></tr>
+</table>
 
 - 🔭 I’m a beginner with a lot of grit to learn 
 - 🌱 I’m studying python and linux
