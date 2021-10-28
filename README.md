@@ -21,7 +21,7 @@
 - :goat: Fun fact: my nickname is little goat (the animal haha I'm not talking about the acronym)
 
 
-
+![Snake animation](https://github.com/BiancaMalta/BiancaMalta/blob/output/github-contribution-grid-snake.svg)
 
 ![BiancaMalta's github stats](https://github-readme-stats.vercel.app/api?username=BiancaMalta&show_icons=true&theme=radical)
 
