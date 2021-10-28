@@ -30,7 +30,7 @@
 <h6>
   </p>
   <p align="center">
-      <i> Everyone started from scratch. </i>
+      <i> All the professionals started from scratch.</i>
 </h6>  
   
 ![BiancaMalta's github stats](https://github-readme-stats.vercel.app/api?username=BiancaMalta&show_icons=true&theme=radical)
