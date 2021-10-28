@@ -54,6 +54,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a> 
   </a> 
-    <a href="https://www.javascript.org/" target="_blank"> 
+    <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   
