@@ -1,59 +1,33 @@
-<p align="center">
-  <img alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/38094b95235473.5e92ecc4409a8.gif" />
-<h1>
- <p align="center">
-     Hello there <img alt="All rights reserved to Atari Boy (https://www.artstation.com/atariboy)" src="https://github.com/BiancaMalta/BiancaMalta/blob/main/goat.gif" width="50" height="50"/> <i>- general bia!? </i>
- </p>
-  
-<img align="right" src="https://komarev.com/ghpvc/?username=BiancaMalta" alt="BiancaMalta" />
-</h1>
+<h1 align="left"> May the force be with you!</h1> 
+<img align="right" src="https://i.pinimg.com/originals/78/53/31/785331333c7b4e13214364f864232e52.jpg" width="45%" height="45%" />
+<p align="left"> Me chamo <strong>Bianca</strong>. Sou estudante de Desenvolvimento de Sistemas pelas ETEC-sp. Atualmente estudo e faço projetos envolvendo containerização com <code>Docker</code>, scripting e automação utilizando <code>Bash</code>, análise de dados empregando <code>SQL</code> e <code>Power BI</code>, boas práticas de <code>segurança da informação</code> e <code>computação em nuvem</code>.
+</p> 
 
-<img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_632/5c9b4899127739.5eeba3fbd03e0.gif" alt="All rights reserved to Aliz Rátkai (https://www.behance.net/alizratkai)" width="290" height="470" />
+<div>
+  <a href="https://github.com/BiancaMalta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaMalta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"width="50%" height="50%"/>
+                                           
+ </br> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMalta&layout=compact&langs_count=10&theme=dark" width="50%" height="50%"/>
+</div>
 
-<h6>
-<table align="right">
- <tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="readme_es.md">Español</a></td></tr>
-</table>
-</h6>
-<h6>
-  <p align="left">
-       <i> In the comfort zone, there is no growth.</i>
-</h6>
- 
-- 🔭 I’m a beginner with a lot of grit to learn 
-- 🌱 Future software developer
-- :dollar: I'm looking for my first job 
-- :heart: My days are resume in coding and taking care of my mom
-- :goat: Fun fact: my nickname is little goat (the animal haha I'm not talking about the acronym)
+<p>
+<img align="left"  alt="Madalorian-yoda" src="https://bestanimations.com/media/r2d2/2026771050c3po-animated-gif-6.gif" width="50%" height="50%"  >
+</p>
 
-<h6>
-  </p>
-  <p align="center">
-      <i> All the professionals started from scratch.</i>
-</h6>  
-  
-![BiancaMalta's github stats](https://github-readme-stats.vercel.app/api?username=BiancaMalta&show_icons=true&theme=radical)
+<p align="right" justify="left" >
+  <code>Ferramentas</code> nas quais me arrisco :
+</br> <a href="https://skillicons.dev">
+</br>   <img height="25%" width="25%" src="https://skillicons.dev/icons?i=linux,kubernetes,docker,git,aws,mysql,postgres,bash&perline=4" />
+ </a> 
+</p> 
 
-<a href="https://www.linkedin.com/in/bianca-malta-7a5043100/" target="_blank">
-                        <img src="https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white" alt="Linkedin icon" />
-<a href="https://twitter.com/atlam_" target="_blank">
-                        <img src="https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white" alt="Twitter icon" />
- 
-![Snake animation](https://github.com/BiancaMalta/BiancaMalta/blob/output/github-contribution-grid-snake.svg)
-  
-<h1>Learning:</h1>
-  </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/144/000000/linux--v1.png" alt="linux" width="40" height="40"/>
-  </a> 
-    <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-  </a> 
-    <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  
+<p align="right">
+ <code>Linguagens</code> nas quais me arrisco também :
+ <a href="https://skillicons.dev">
+  <img height="20%" width="20%" src="https://skillicons.dev/icons?i=py,php,javascript" />
+ </a> 
+</p>
+
+<p align="right">
+  Para mais <strong>mais informações</strong> :</br> <a href="https://www.linkedin.com/in/bianca-malta" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin icon" />
+</p> 
