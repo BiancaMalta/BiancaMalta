@@ -8,11 +8,9 @@
                                            
  </br> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMalta&layout=compact&langs_count=10&theme=dark" width="50%" height="50%"/>
 
-
-<p>
-<img align="left"  alt="Madalorian-yoda" src="https://bestanimations.com/media/r2d2/2026771050c3po-animated-gif-6.gif" width="40%" height="40%"  >
-</p>
-
+<a> 
+<img align="left" src="https://bestanimations.com/media/r2d2/2026771050c3po-animated-gif-6.gif" width="40%" height="40%"  >
+</a>
 <div align="right">
   <p>
   <code>Ferramentas</code> nas quais me arrisco :<a href="https://skillicons.dev">
