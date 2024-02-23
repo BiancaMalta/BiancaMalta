@@ -1,5 +1,5 @@
 <h1 align="left"> May the force be with you!</h1> 
-<img align="right" src="https://i.pinimg.com/originals/78/53/31/785331333c7b4e13214364f864232e52.jpg" width="35%" height="35%" /> </br>
+<img align="right" src="https://i.pinimg.com/originals/78/53/31/785331333c7b4e13214364f864232e52.jpg" width="35.05%" height="35.05%" /> </br>
 <p align="left"> Me chamo <strong>Bianca</strong>. Sou estudante de Desenvolvimento de Sistemas pelas ETEC-sp. Atualmente estudo e faço projetos envolvendo containerização com <code>Docker</code>, scripting e automação utilizando <code>Bash</code>, análise de dados empregando <code>SQL</code> e <code>Power BI</code>, boas práticas de <code>segurança da informação</code> e <code>computação em nuvem</code>.
 </p> 
 
