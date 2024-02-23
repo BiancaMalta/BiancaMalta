@@ -14,13 +14,14 @@
 <img align="left"  alt="Madalorian-yoda" src="https://bestanimations.com/media/r2d2/2026771050c3po-animated-gif-6.gif" width="40%" height="40%"  >
 </p>
 
- <p align="right" justify="left" >
-  <code>Ferramentas</code> nas quais me arrisco :
-</br> <a href="https://skillicons.dev">
-</br>   <img height="25%" width="25%" src="https://skillicons.dev/icons?i=linux,kubernetes,docker,git,aws,mysql,postgres,bash&perline=4" />
+</br></br></br></br></br>
+<div align="right">
+  <p>
+  <code>Ferramentas</code> nas quais me arrisco :<a href="https://skillicons.dev">
+</br></br><img height="25%" width="25%" src="https://skillicons.dev/icons?i=linux,kubernetes,docker,git,aws,mysql,postgres,bash&perline=4" />
  </a> 
 </p> 
-
+</div>
 <p align="right">
  <code>Linguagens</code> nas quais me arrisco também :
 </br> <a href="https://skillicons.dev">
