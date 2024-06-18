@@ -1,6 +1,6 @@
 <h1 align="left"> May the force be with you!</h1> 
 <img align="right" src="https://i.pinimg.com/originals/78/53/31/785331333c7b4e13214364f864232e52.jpg" width="35.2%" height="35.2%" /> </br>
-<p align="left"> Me chamo <strong>Bianca</strong>. Sou estudante de Desenvolvimento de Sistemas pelas ETEC-sp. Atualmente estudo e faço projetos envolvendo containerização com <code>Docker</code>, scripting e automação utilizando <code>Bash</code>, análise de dados empregando <code>SQL</code> e <code>Power BI</code>, boas práticas de <code>segurança da informação</code> e <code>computação em nuvem</code>.
+<p align="left"> Atualmente, estou imersa em uma capacitação de Cibersegurança, aprimorando minha proficiência em inglês, realizando um técnico em Desenvolvimento de Sistemas e uma graduação em Análise e Desenvolvimento de Sistemas. Meus projetos recentes envolvem containerização, habilidade de script de automação utilizando Bash e Python, domínio em Linux, prática em versionamento de código, familiaridade com AWS, consciência de boas práticas de segurança e ferramentas de observability.
 </p> 
 
   <a href="https://github.com/BiancaMalta">
